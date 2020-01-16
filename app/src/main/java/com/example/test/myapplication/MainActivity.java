@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         findViewById(R.id.btnCommit).setOnClickListener(this);
 
 
+        //测试
     }
 
     @Override
