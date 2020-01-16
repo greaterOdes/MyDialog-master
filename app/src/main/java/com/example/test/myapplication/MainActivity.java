@@ -20,9 +20,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         findViewById(R.id.btnCommit).setOnClickListener(this);
 
-        findViewById(R.id.btnCommit2).setOnClickListener(this);
-
-        findViewById(R.id.btnCommit3).setOnClickListener(this);
 
     }
 
